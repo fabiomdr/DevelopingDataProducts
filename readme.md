@@ -10,11 +10,3 @@ The files of the application are:
 * server.R
 
 The application is accesible in: https://fabiomdr.shinyapps.io/DDPCoursera
-
-The presentation of the application designed using slidify is stored at:
-
-http://ibonaranburu.github.io/Data-Product-Presentation/index.html
-
-or in:
-
-http://rpubs.com/ibonaranburu/21292
